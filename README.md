@@ -10,6 +10,6 @@ to enhance the gameplay experience.
 
 ### How I Extended the App
 After finishing the Stanford CS193p course, I implemented custom features that expand beyond the course content:
-* Developed dynamic difficulty levels, allowing players to choose the level of challenge.
-* Added a time-based bonus system, rewarding players for completing the game faster.
+* Developed dynamic difficulty levels, allowing the player to choose the level of challenge.
+* Added a time-based bonus system, rewarding the player for completing the game faster.
 * Enhanced the user interface with smooth animations and custom themes for a more engaging user experience.
