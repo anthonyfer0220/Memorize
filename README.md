@@ -13,3 +13,6 @@ After finishing the Stanford CS193p course, I implemented custom features that e
 * Developed dynamic difficulty levels, allowing the player to choose the level of challenge.
 * Added a time-based bonus system, rewarding the player for completing the game faster.
 * Enhanced the user interface with smooth animations and custom themes for a more engaging user experience.
+
+### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
