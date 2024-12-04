@@ -15,4 +15,4 @@ After finishing the Stanford CS193p course, I implemented custom features that e
 * Enhanced the user interface with smooth animations and custom themes for a more engaging user experience.
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
